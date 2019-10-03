@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-08-02 12:04+0200\n"
+"PO-Revision-Date: 2019-08-02 12:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sr_RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: createtables.php\n"
+"X-Poedit-SearchPath-1: edittables.php\n"
+"X-Poedit-SearchPath-2: pikto-tables.php\n"
+"X-Poedit-SearchPath-3: settings.php\n"
+"X-Poedit-SearchPath-4: showdata.php\n"
+"X-Poedit-SearchPath-5: tables.php\n"
+
+#: createtables.php:152
+msgid "Create new table"
+msgstr "Креирајте нову табелу"
+
+#: createtables.php:158
+msgid "Table Name"
+msgstr "Име табеле"
+
+#: createtables.php:167
+msgid "Table Description"
+msgstr "Опис табеле"
+
+#: edittables.php:74
+msgid "Edit table"
+msgstr "Измените табелу"
+
+#: pikto-tables.php:68 pikto-tables.php:77
+msgid "Pikto Tables"
+msgstr "Пикто табеле"
+
+#: pikto-tables.php:70
+msgid "Create Tables"
+msgstr "Креирајте табеле"
+
+#: settings.php:74
+msgid "Database settings"
+msgstr "Подешавања базе"
+
+#: settings.php:75
+msgid "Current Database selected"
+msgstr "Тренутно изабрана база"
+
+#: settings.php:76
+msgid "Use Wordpress database (default)"
+msgstr "Користите Вордпрес базу (подразумевано)"
+
+#: settings.php:77
+msgid "Use custom database"
+msgstr "Користите другу базу података"
+
+#: showdata.php:72
+msgid "Table data for"
+msgstr "Подаци табеле за "
+
+#: showdata.php:82
+msgid "Number of rows"
+msgstr "Број редова"
+
+#: tables.php:66
+msgid "Tables"
+msgstr "Табеле"

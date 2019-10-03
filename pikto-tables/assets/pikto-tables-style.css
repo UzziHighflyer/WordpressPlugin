@@ -1,0 +1,23 @@
+/* Used in showdata.php for pagination buttons  */
+.pt_pagination{
+	text-align:center;
+}
+
+.pt_pagination li{
+	display:inline-block;
+}
+
+/* Used in tables.php for clickable buttons (truncate, drop..) */
+.pt_linkbutton{
+	background:none!important;
+    border:none; 
+    padding:0!important;
+    color:#0073aa;
+    cursor:pointer;
+    font-size:13px;
+}
+
+/* Set link button to inline for cleaner look */
+.pt_formtruncate{
+	display:inline;
+}
